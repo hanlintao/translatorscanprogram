@@ -1,0 +1,10 @@
+CREATE TABLE `stiterm`.`TermData`   
+(  
+  `ID` INT(5) NOT NULL AUTO_INCREMENT ,  
+  `zh_CN` VARCHAR(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL ,   
+  `en_US` VARCHAR(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL ,   
+  PRIMARY KEY (`ID`)  
+)   
+ENGINE = InnoDB   
+CHARSET=utf8   
+COLLATE utf8_general_ci;  
