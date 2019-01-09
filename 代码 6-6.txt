@@ -1,0 +1,7 @@
+{  
+"translators": [  
+{ "Name":"Lintao" , "language":"Chinese" },  
+{ "Name":"Alex" , "language":"English" },  
+{ "Name":"Francis" , "language":"French" }  
+]  
+}  

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+<tmx version="1.4">  
+    <header />  
+    <body>  
+        <tu>  
+            <tuv xml:lang="zh-CN">  
+                <seg>******</seg>  
+            </tuv>  
+            <tuv xml:lang="en-US">  
+                <seg>******</seg>  
+            </tuv>  
+        </tu>  
+    </body>  
+</tmx>

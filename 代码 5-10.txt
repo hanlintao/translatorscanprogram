@@ -1,0 +1,30 @@
+	[0] => Array (  
+	    [0] => 序号  
+	    [1] => 中文  
+	    [2] => 英文  
+	    )  
+	[1] => Array (  
+	    [0] => 1  
+	    [1] => 北京语言大学  
+	    [2] => Beijing Language and Culture University  
+	    )  
+	[2] => Array (  
+	    [0] => 2  
+	    [1] => 高级翻译学院  
+	    [2] => School of Translation and Interpreting  
+	    )  
+	[3] => Array (  
+	    [0] => 3  
+	    [1] => 翻译专业本科  
+	    [2] => Bachelor of Translation and Interpreting  
+	    )  
+	[4] => Array (  
+	    [0] => 4  
+	    [1] => 翻译专业（本地化方向）  
+	    [2] => Translation and Localization Program  
+	    )  
+	[5] => Array (  
+	    [0] => 5  
+	    [1] => 译者  
+	    [2] => Translator  
+	    )  

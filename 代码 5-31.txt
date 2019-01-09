@@ -1,0 +1,2 @@
+INSERT INTO user (`UID`, `username`, `password`) VALUES ('1', 'admin', 'admin');  
+INSERT INTO user (`UID`, `username`, `password`) VALUES ('2', 'guest', 'guest');  

@@ -1,0 +1,8 @@
+[from] => zh  
+[to] => en  
+[trans_result] => Array (  
+    [0] => Array (  
+        [src] => 北京语言大学高级翻译学院成立于2011年5月20日。  
+        [dst] => The Advanced Translation College of Beijing Language and Culture University was founded in May 20, 2011.  
+        )  
+    )  

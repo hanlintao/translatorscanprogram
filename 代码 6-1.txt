@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+<tmx version="1.4">  
+    <header creationtool="Tmxmall Aligner" segtype="sentence" adminlang="zh-CN" srclang="zh-CN" datatype="xml" creationdate="20180806T182554Z" creationid="TM STUDIO"/>  
+    <body>  
+        <tu creationdate="20180806T182554Z" creationid="TM STUDIO">  
+            <tuv xml:lang="zh-CN">  
+                <seg>2018年8月3日外交部发言人耿爽主持例行记者会</seg>  
+            </tuv>  
+            <tuv xml:lang="en-US">  
+                <seg>Foreign Ministry Spokesperson Geng Shuang's Regular Press Conference on August 3, 2018</seg>  
+            </tuv>  
+        </tu>  
+        <tu creationdate="20180806T182554Z" creationid="TM STUDIO">  
+            <tuv xml:lang="zh-CN">  
+                <seg>应国务委员兼外交部长王毅邀请，第73届联合国大会当选主席玛丽亚·费尔南达·埃斯皮诺萨将于8月5日至10日访华。</seg>  
+            </tuv>  
+            <tuv xml:lang="en-US">  
+                <seg>At the invitation of State Councilor and Foreign Minister Wang Yi, Maria Fernanda Espinosa, the president-elect of the 73rd Session of the United Nations General Assembly will pay a visit to China from August 5 to 10.</seg>  
+            </tuv>  
+        </tu>  
+      
+        ......  
+      
+	</body>  
+</tmx>  
