@@ -6,7 +6,7 @@ mysqli_query($conn, "set names 'utf8'");
 $tid=$_GET["tid"];  
 $sql = "SELECT zh_CN,en_US FROM termdata WHERE ID={$tid}";  
 $result = mysqli_query($conn,$sql);  
-$row = mysqli_fetch_array($result, MYSQL_ASSOC);  
+$row = mysqli_fetch_array($result, MYSQLI_ASSOC);  
 ?>   
 <form action="update.php" method="POST" >  
     <table>    
