@@ -36,7 +36,7 @@
   
     mysqli_select_db( $conn,"stiterm" ); 
     $query =$_POST["query"]; 
-    $sql = "SELECT zh_CN, en_US FROM termdata WHERE zh_CN LIKE '%query%' OR en_US LIKE '%$query%'";  
+    $sql = "SELECT ID, zh_CN, en_US FROM termdata WHERE zh_CN LIKE '%$query%' OR en_US LIKE '%$query%'";  
     mysqli_query($conn,"set names 'utf8'");  
     $getterm = mysqli_query($conn,$sql);  
     
